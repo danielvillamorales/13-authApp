@@ -1,0 +1,7 @@
+button {
+  padding: 5px;
+  background: rgb(131,58,180);
+  background: linear-gradient(90deg, rgb(33, 6, 51) 0%, rgb(134, 3, 3) 50%, rgb(223, 138, 19) 100%);
+  color: white;
+  border-radius: 20px;
+}
